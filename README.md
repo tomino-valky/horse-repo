@@ -3,7 +3,7 @@
 > An end-to-end Python pipeline: EDA → dimensionality reduction → Random Forest survival prediction.
 > Outputs a single self-contained HTML report — no server required to view it.
 
-**[▶ View Live Report](https://tomasvalky.github.io/horse-colic-ml/report.html)**
+**[▶ View Live Report](https://tomasvalky.github.io/horse-repo/report.html)**
 
 ---
 
